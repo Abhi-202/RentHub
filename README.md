@@ -20,13 +20,3 @@
 ## 🚀 Check out the website here! 👉 
 
 
-## 🚀 Demo of Chit-Chat App
-
-### Home Page 
-
-<p align="center"> <img src="https://github.com/Mihir-Shinde-24/Caras-Secret/blob/main/Cara-Secret-Demo/Home.gif" alt="Home.gif" width="100%" /> 
-
-
-### Buying Items
-
-<p align="center"> <img src="https://github.com/Mihir-Shinde-24/Caras-Secret/blob/main/Cara-Secret-Demo/Cart.gif" alt="Cart.gif" width="100%" /> </p>
