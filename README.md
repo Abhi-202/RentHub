@@ -1,6 +1,6 @@
-# Cara's Secret 🛍
+# RentHub 🛍
 
-**Cara's Secret** is a E-Commerce Website for female apparels. It is a Beautiful Frontend Project made with **HTML5, CSS3 and Vanilla JavaScript.** 
+**rentHub** is a E-Commerce Website for female apparels. It is a Beautiful Frontend Project made with **HTML5, CSS3 and Vanilla JavaScript.** 
 
 <p align="center"> <img src="https://github.com/Mihir-Shinde-24/Caras-Secret/blob/main/Cara-Secret-Demo/HOME_SS.jpg" alt="Home.jpg" width="75%" /> </p>
 
@@ -17,7 +17,7 @@
 5. **`Add to Cart Page`** for adding items to your Cart.
 
 
-## 🚀 Check out the website here! 👉 [Cara's Secret](https://carasecret.000webhostapp.com/)
+## 🚀 Check out the website here! 👉 
 
 
 ## 🚀 Demo of Chit-Chat App
